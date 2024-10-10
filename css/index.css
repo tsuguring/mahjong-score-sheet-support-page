@@ -50,7 +50,7 @@ ul {
 }
 
 .main-nav a:hover {
-  color: #69BE5F;
+  color: #CED5FF;
 }
 
 .page-header {
@@ -89,7 +89,7 @@ ul {
 .home-text h1 {
   font-size: 60px;
   font-weight: bold;
-  color: #69BE5F;
+  color: #262D5C;
 }
 
 .home-text h2 {
@@ -214,7 +214,7 @@ ul {
   .home-text h1 {
     font-size: 40px;
     font-weight: bold;
-    color: #38c235;
+    color: #262D5C;
   }
   .home-text h2 {
     font-size: 20px;
